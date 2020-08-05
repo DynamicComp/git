@@ -7,4 +7,5 @@ package com.huoshaoyun.entity;
  */
 public class Student{
 	private String name;
+	private Integer age;
 }
